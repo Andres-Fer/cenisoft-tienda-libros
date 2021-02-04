@@ -32,10 +32,16 @@ html, body{
     
 }
 
+.libro{
+
+    background-image: url(../images/portada.jpg);
+    height: 700px;    
+    
+}
+
 @media all and (max-width:800px ){
 
     html,body{
         font-size: 10px;
-
     }
 }
